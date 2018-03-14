@@ -1,4 +1,4 @@
-![API](/images/api.png) 
+![API](../images/api.png) 
 
 ## API guidelines 
 

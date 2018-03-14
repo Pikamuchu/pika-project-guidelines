@@ -1,6 +1,6 @@
 # Code Review
 
-![Review process](./images/review_process.png)
+![Review process](../images/review_process.png)
 
 ## Create Pull Request
 

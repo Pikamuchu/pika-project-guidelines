@@ -1,4 +1,4 @@
-![Git](images/branching.png)
+![Git](../images/branching.png)
 
 ## Git guidelines 
 

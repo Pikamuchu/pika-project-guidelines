@@ -2,33 +2,33 @@
 
 # Desigual Hippo CMS - Project guidelines 
 
-Project documentation samples and guidelines to keep in mind in order to develop Hippo CMS projects.
+Project documentation samples and guidelines to keep in mind in order to develop projects.
 
 Feel free to give feedback and improve these guidelines.
 
 
 ## Design guidelines
 
-API design guidelines [API_GUIDELINES.md](./API_GUIDELINES.md).
+[API design](./design/API_GUIDELINES.md).
 
 
-## Git branching model
+## Branching model
 
-Git branching model guidelines [GIT_GUIDELINES.md](./GIT_GUIDELINES.md).
+[Git branching model](./branching/GIT_GUIDELINES.md).
 
 ## Coding rules
 
-Coding rules [CODING_RULES.md](./CODING_RULES.md).
+[Coding rules](./coding/CODING_RULES.md).
 
 
-## Code Review Process
+## Review Process
 
-Code review process [CODE_REVIEW.md](./CODE_REVIEW.md).
+[Review process](./review/CODE_REVIEW.md).
 
 
 ## Readme sample
 
-Use this template for [README.md](./README.sample.md). 
+Use this template for [README.md](./samples/README.sample.md). 
 
 Feel free to add uncovered sections.
 
